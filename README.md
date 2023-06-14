@@ -8,7 +8,7 @@ I'm a software engineer undergraduated as Bachelor in Information Systems at the
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JederilsonLuz)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,ts,fastapi,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,tensorflow,pytorch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,linux)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![Jederilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jejinketsu&show_icons=true&bg_color=00000000)
