@@ -3,7 +3,7 @@
 I'm a software engineer undergraduated as Bachelor in Information Systems at the Federal University of Piauí - UFPI. Currently I'm working on an startup building solutions with web and mobile apps.
 
 ## 🌐 Socials:
-[![Views](https://visitcount.itsvg.in/api?id=Jejinketsu&label=Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jejinketsu&label=Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jederilson) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JederilsonLuz)
 
