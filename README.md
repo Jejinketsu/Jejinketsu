@@ -1,4 +1,3 @@
-<!--
 # Hi, I'm Jederilson Luz 👋🏻🧑🏻‍💻
 
 I'm a software engineer with a Bachelor's degree in Information Systems from the Federal University of Piauí - UFPI. Currently I'm working on Morning Consult, an american company, building solutions for a web app with NextJS and WordPress.
@@ -13,12 +12,12 @@ I'm a software engineer with a Bachelor's degree in Information Systems from the
 
 
 # 📊 GitHub Stats:
-![Jederilson's GitHub stats](https://jede-stats.vercel.app/api?username=Jejinketsu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Jederilson's GitHub stats](https://jede-stats.vercel.app/apiusername=Jejinketsu&show=reviews,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jejinketsu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jejinketsu&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://jede-stats.vercel.app/api/top-langs/?username=Jejinketsu)](https://github.com/Jejinketsu/github-readme-stats)
 
-
+<!--
 <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
 -->
