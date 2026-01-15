@@ -1,6 +1,6 @@
 # Hi, I'm Jederilson Luz 👋🏻🧑🏻‍💻
 
-I'm a software engineer graduated as Bachelor in Information Systems at the Federal University of Piauí - UFPI. Currently I'm working on an american company building solutions for a web app.
+I'm a software engineer graduated as Bachelor in Information Systems at the Federal University of Piauí - UFPI. Currently I'm working on Morning Consult, an american company, building solutions for a web app with NextJS and WordPress.
 
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=Jejinketsu&label=Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
