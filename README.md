@@ -14,7 +14,7 @@ I'm a software engineer with a Bachelor's degree in Information Systems from the
 # 📊 GitHub Stats:
 ![Jederilson's GitHub stats](https://jede-stats.vercel.app/apiusername=Jejinketsu&show=reviews,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jejinketsu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jejinketsu&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://jede-stats.vercel.app/api/top-langs/?username=Jejinketsu)](https://github.com/Jejinketsu/github-readme-stats)
 
