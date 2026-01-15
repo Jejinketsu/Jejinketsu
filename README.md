@@ -10,6 +10,7 @@ I'm a software engineer with a Bachelor's degree in Information Systems from the
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,linux)](https://skillicons.dev)
 
+<!--
 # 📊 GitHub Stats:
 ![Jederilson's GitHub stats](https://jede-stats.vercel.app/api?username=Jejinketsu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
@@ -17,6 +18,6 @@ I'm a software engineer with a Bachelor's degree in Information Systems from the
 
 [![Top Langs](https://jede-stats.vercel.app/api/top-langs/?username=Jejinketsu)](https://github.com/Jejinketsu/github-readme-stats)
 
-<!--
+
 <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
 -->
