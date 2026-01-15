@@ -1,7 +1,8 @@
+<!--
 # Hi, I'm Jederilson Luz 👋🏻🧑🏻‍💻
 
 I'm a software engineer with a Bachelor's degree in Information Systems from the Federal University of Piauí - UFPI. Currently I'm working on Morning Consult, an american company, building solutions for a web app with NextJS and WordPress.
-<!--
+
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=Jejinketsu&label=Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jederilson) 
