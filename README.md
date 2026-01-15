@@ -1,7 +1,7 @@
 # Hi, I'm Jederilson Luz 👋🏻🧑🏻‍💻
 
 I'm a software engineer with a Bachelor's degree in Information Systems from the Federal University of Piauí - UFPI. Currently I'm working on Morning Consult, an american company, building solutions for a web app with NextJS and WordPress.
-
+<!--
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=Jejinketsu&label=Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jederilson) 
@@ -10,7 +10,7 @@ I'm a software engineer with a Bachelor's degree in Information Systems from the
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,linux)](https://skillicons.dev)
 
-<!--
+
 # 📊 GitHub Stats:
 ![Jederilson's GitHub stats](https://jede-stats.vercel.app/api?username=Jejinketsu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
