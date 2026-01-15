@@ -11,11 +11,11 @@ I'm a software engineer graduated as Bachelor in Information Systems at the Fede
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,nextjs,react,tailwind,figma,prisma,planetscale,vercel,netlify,aws,docker,firebase,mysql,postgres,linux)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![Jederilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jejinketsu&show_icons=true&bg_color=00000000)
+![Jederilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jejinketsu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jejinketsu&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jejinketsu)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jejinketsu&layout=compact&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jejinketsu)](https://github.com/Jejinketsu/github-readme-stats)
 
 <!--
 <img src="https://raw.githubusercontent.com/JedersonLuz/JedersonLuz/output/snake.svg" alt="Snake animation" />
